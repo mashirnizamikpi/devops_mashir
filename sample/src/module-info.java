@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author MashirNizami
+ *
+ */
+module sample {
+}
