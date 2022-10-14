@@ -6,11 +6,13 @@ pipeline {
             steps {
                 echo 'Building for UAT environment..'
             }
+			
         }
         stage('Test') {
             steps {
                 echo 'Testing in UAT environment ..'
             }
+			
         }
         stage('Deploy') {
             steps {
