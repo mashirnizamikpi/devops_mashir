@@ -14,7 +14,7 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                echo 'Deploying in DEV to move to UAT....'
+                echo 'Deploying in DEV to move to SIT....'
             }
         }
     }
